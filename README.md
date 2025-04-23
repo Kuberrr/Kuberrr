@@ -1,9 +1,7 @@
-<h1>Hi <span class="wave-hand">👋</span>, I'm Kuberr</h1>
+<h1>Hi 👋, I'm Kuberr</h1>
 <p>A passionate frontend developer from Poland</p>
-<p>
-  ✩ <a href="https://nohello.net/en/" target="_blank">https://nohello.net/en/</a><br>
-  ✩ <a href="https://www.paypal.com/paypalme/kuberrr" target="_blank">https://www.paypal.com/paypalme/kuberrr</a>
-</p>
+<p>✩ <a href="https://nohello.net/en/" target="_blank">https://nohello.net/en/</a><br>
+✩ <a href="https://www.paypal.com/paypalme/kuberrr" target="_blank">https://www.paypal.com/paypalme/kuberrr</a></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
