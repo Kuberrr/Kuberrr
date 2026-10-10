@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,100:263449&text=Kuberr&fontColor=FFFFFF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=64748b&strokeWidth=1" width="100%" alt="Kuberr"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Lazy+as+fuck+developer+from+Poland;Discord+bots+%7C+Web+development+%7C+Roblox;Automating+things+I+can't+be+bothered+to+do+manually" alt="Typing animation"/>
@@ -7,6 +7,7 @@
     <a href="https://github.com/Kuberrr"><img src="https://img.shields.io/badge/GitHub-Kuberrr-161b22?style=flat-square&logo=github" alt="GitHub"/></a>
     <a href="https://tiktok.com/@reorvis"><img src="https://img.shields.io/badge/TikTok-@reorvis-161b22?style=flat-square&logo=tiktok" alt="TikTok"/></a>
     <img src="https://img.shields.io/badge/Discord-reorvis-161b22?style=flat-square&logo=discord&logoColor=7289DA" alt="Discord: reorvis"/>
+    <a href="https://paypal.me/kuberrr"><img src="https://img.shields.io/badge/PayPal-Support%20me-161b22?style=flat-square&logo=paypal&logoColor=00457C" alt="PayPal"/></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=Kuberrr&style=flat-square&color=334155&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -16,7 +17,7 @@
 
 ## `$ whoami`
 
-Lazy as fuck developer from Poland.
+Lazy as fuck developer from Poland 🇵🇱, currently living in the UK 🇬🇧.
 
 I build websites, Discord bots, automation tools, and Roblox systems. I enjoy turning random ideas into actual working projects, preferably without doing the same thing twice.
 
@@ -25,6 +26,8 @@ I build websites, Discord bots, automation tools, and Roblox systems. I enjoy tu
 * **Roblox development** — Lua scripting, custom UI, game systems, staff tools, and anti-exploit systems.
 * **Automation** — APIs, webhooks, background tasks, and integrations.
 * **Design** — clean interfaces, practical layouts, and the occasional 3D model.
+
+> **Disclaimer:** This profile is probably outdated. I'm too lazy to keep updating it, so some information might no longer be accurate.
 
 ## `$ ls skills/`
 
@@ -43,9 +46,6 @@ I build websites, Discord bots, automation tools, and Roblox systems. I enjoy tu
 * `discord.js` — Discord bots using JavaScript.
 * `discord.py` — Discord bots using Python.
 * Roblox Lua / Luau — scripting Roblox games and systems.
-* TopbarPlus — Roblox top-bar interfaces.
-* Adonis Admin — Roblox administration and plugin systems.
-* easyNametags — Roblox player nametags.
 
 ### Development tools
 
@@ -95,5 +95,5 @@ I build websites, Discord bots, automation tools, and Roblox systems. I enjoy tu
 ---
 
 <div align="center">
-  <sub>Made in Poland. Deployed somewhere. Probably needs debugging.</sub>
+  <sub>Born in Poland. Living in the UK. Probably debugging something that worked five minutes ago.</sub>
 </div>
